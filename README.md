@@ -1,7 +1,7 @@
-# chenGGnan
+# Todo-items
 
 > A Vue.js project
-
+>参考示例：https://github.com/itPoet/Vue-Webpack-TodoAPP
 ## Build Setup
 
 ``` bash
