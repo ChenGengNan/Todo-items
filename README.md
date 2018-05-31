@@ -3,19 +3,15 @@
 > A Vue.js project
 >参考示例：https://github.com/itPoet/Vue-Webpack-TodoAPP
 ## Build Setup
-
-``` bash
-# install dependencies
+clone后请执行：
 npm install
-
-# serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
+#访问项目
+https://localhost:8080
+
+完成打包：
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+# 该实例是使用vue-cli工具创建的基于vue2.0 + webpack4.0的一个vue实例，其中的css使用的是stylus写法
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
